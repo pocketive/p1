@@ -1,0 +1,6 @@
+[submodule "tinygpt.c"]
+	path = tinygpt.c
+	url = https://github.com/pocketive/tinygpt.c
+[submodule "palui"]
+	path = palui
+	url = https://github.com/pocketive/palui
