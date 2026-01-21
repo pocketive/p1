@@ -1,17 +1,13 @@
 ﻿
 # P1
 
-https://github.com/user-attachments/assets/bc4f4fc3-7039-4c91-aebd-e302982ff2ab
-
 P1 is the world's first microcontroller-powered ***local*** AI device.
 
 # Navigation
 
 -   [Features](#features)
 -   [Contents](#contents)
--   [Quickstart](#quickstart)
--   [Upload / Flash](#upload--flash)
--   [Compile yourself](#compile-yourself)
+-   [Make your own P1](#make-your-own-p1)
 -   [Future Plans](#future-plans)
 -   [Contact](#contact)
 -   [Support](#support)
@@ -86,6 +82,8 @@ Done!
 ## Assembly
 
 You can use this 3D guide to assemble P1.
+
+https://github.com/user-attachments/assets/b9f94928-1895-4264-87c6-d9e39b09e093
 
 ## Summary Mindmap
 ```mermaid
