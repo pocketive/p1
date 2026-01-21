@@ -83,7 +83,7 @@ Done!
 
 You can use this 3D guide to assemble P1.
 
-https://github.com/user-attachments/assets/b9f94928-1895-4264-87c6-d9e39b09e093
+https://github.com/user-attachments/assets/5a5abec0-62b8-4140-bbc5-8d7b0defdb7e
 
 ## Summary Mindmap
 ```mermaid
