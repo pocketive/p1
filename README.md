@@ -14,7 +14,7 @@ P1 is the world's first microcontroller-powered ***local*** AI device.
 
 # Features
 
-<img src="content/side.png" align="right" width="30%" />
+<img src="contents/side.png" align="right" width="20%" />
 
 **[PalUI](https://pocketive.tachion.tech/palui):** Not only a chat interface, but an app/program launcher for P1.
 
