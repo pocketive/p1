@@ -1,5 +1,6 @@
-﻿
-# P1
+﻿# P1
+ 
+<img width="1280" height="720" alt="P1" src="https://github.com/user-attachments/assets/90a87414-934e-4408-8810-6d44e1a88c23" />
 
 P1 is the world's first microcontroller-powered ***local*** AI device.
 
