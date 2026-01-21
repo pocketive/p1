@@ -40,8 +40,8 @@ P1 is the world's first microcontroller-powered ***local*** AI device.
 
 ### Software
 
-- [tinyGPT.c](tinyGPT.c) -> Custom local AI architecture for microcontrollers, based on its original version [GPT.c](https://github.com/MYusufY/gpt.c) that i made.
-- [PalUI](palui) -> Currently a chat interface for microcontrollers, which i plan to turn into an agentic launcher for microcontrollers.
+- [tinyGPT.c](https://github.com/pocketive/tinyGPT.c) -> Custom local AI architecture for microcontrollers, based on its original version [GPT.c](https://github.com/MYusufY/gpt.c) that i made.
+- [PalUI](https://github.com/pocketive/palui) -> Currently a chat interface for microcontrollers, which i plan to turn into an agentic launcher for microcontrollers.
 
 # Make your own P1
 
@@ -56,7 +56,7 @@ Here's the guide you need to follow to make your own P1 from scratch.
 
 ## Wiring
 
-You need to connect ESP32S3, the "AI hub" and CYD to make local AI processing with [tinyGPT.c](/tinygpt.c) work.
+You need to connect ESP32S3, the "AI hub" and CYD to make local AI processing with [tinyGPT.c](https://github.com/pocketive/tinygpt.c) work.
 
 Since they communicate over UART, its going to be very simple.
 
