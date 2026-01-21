@@ -62,7 +62,7 @@ Since they communicate over UART, its going to be very simple.
 
 Here's a basic circuit:
 
-![wiring](/contents/wiring.jpg)
+<img src="/contents/wiring.jpg" width="300" />
 
 The one at the right is the UART port at the CYD's bottom section, and the one on the left is ESP32S3.
 
